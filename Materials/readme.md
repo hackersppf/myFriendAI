@@ -7,4 +7,4 @@
 |[Raspberry Pi Camera Module NoIR V2 (8MP,1080p)](https://grobotronics.com/raspberry-pi-camera-module-noir-v2-8mp-1080p.html)|29,90|
 |[DC Gear Motor TT - 125 RPM](https://grobotronics.com/dc-gear-motor.html) x 4|7,20|
 |[Waveshare Motor Control Board](https://grobotronics.com/waveshare-motor-control-board.html)|6,90|
-|Σύνολο|160,8|
+|*Σύνολο*|160,8|
