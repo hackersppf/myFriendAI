@@ -10,5 +10,4 @@
 |[Waveshare Li-Ion Battery HAT (14500 Battery)](https://grobotronics.com/waveshare-li-ion-battery-hat-14500-battery.html)|21,90|
 |[Neema3D Athena PLA 1.75mm](https://www.skroutz.gr/c/1646/3d-printer-filament/f/626915_677968/PLA-1-75mm.html?o=pla+filament) x 2|39,8|
 |[Raspberry Pi Camera Board v1.3](https://www.skroutz.gr/s/17355862/Raspberry-Pi-Camera-Board-v1-3-5MP-1080p.html?from=catspan)|22,80|
-|Σύνολο|257,2/286,3|
-
+|[PLA Fillament 4 χρώματα](https://grobotronics.com/easyprint-pla-value-pack-neon-1.75mm-4x500g-blue-green-orange-purple.html)|59,90|
