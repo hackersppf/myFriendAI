@@ -8,6 +8,7 @@
 |[DC Gear Motor TT - 125 RPM](https://grobotronics.com/dc-gear-motor.html) x 4|7,20|
 |[Waveshare Motor Control Board](https://grobotronics.com/waveshare-motor-control-board.html)|6,90|
 |[Waveshare Li-Ion Battery HAT (14500 Battery)](https://grobotronics.com/waveshare-li-ion-battery-hat-14500-battery.html)|21,90|
+|[Waveshare UPS HAT)](https://grobotronics.com/waveshare-ups-hat.html)|24,90|
 |[Neema3D Athena PLA 1.75mm](https://www.skroutz.gr/c/1646/3d-printer-filament/f/626915_677968/PLA-1-75mm.html?o=pla+filament) x 2|39,8|
 |[Raspberry Pi Camera Board v1.3](https://www.skroutz.gr/s/17355862/Raspberry-Pi-Camera-Board-v1-3-5MP-1080p.html?from=catspan)|22,80|
 |[PLA Fillament μπλε, πράσινο, πορτοκαλί και μωβ](https://grobotronics.com/easyprint-pla-value-pack-neon-1.75mm-4x500g-blue-green-orange-purple.html)|59,90|
