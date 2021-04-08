@@ -1,6 +1,7 @@
 Λίστα με υλικά που χρειάζονται - απαιτείται επιβεβαίωση
 |Είδος  |Κόστος|
 |--|--|
+|Κεντρική μονάδα AI|
 |[Raspberry Pi 4 - Model B - 4GB](https://grobotronics.com/raspberry-pi-4-model-b-4gb.html)  |64,90|
 |[Micro SD 32GB - Pre-Loaded with NOOBS](https://grobotronics.com/micro-sd-32gb-pre-loaded-with-noobs.html)|11,90|
 |[Pi Display 4" 480x800 IPS Capacitive Touchscreen](https://grobotronics.com/pi-display-4-480x800-ips-capacitive-touchscreen.html)|51,90|
